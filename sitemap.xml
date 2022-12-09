@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="https://bari-style.ru/sitemap.xml"> 
+        <url>
+            <loc>https://bari-style.ru/index.html</loc>
+            <lastmod>2022-08-08</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>0.8</priority>
+        </url>
+        ...
+    </urlset>
